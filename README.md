@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 
-본 프로젝트는 **3RC 등가회로 모델(Equivalent Circuit Model, ECM)**과 **확장 칼만 필터(Extended Kalman Filter, EKF)**를 활용하여 리튬이온 배터리의 **SOC(State of Charge, 충전 상태)**를 추정하는 시스템을 구현한 것입니다.
+본 프로젝트는 3RC 등가회로 모델(Equivalent Circuit Model, ECM)과 확장 칼만 필터(Extended Kalman Filter, EKF)를 활용하여 리튬이온 배터리의 SOC(State of Charge, 충전 상태)를 추정하는 시스템을 구현한 것입니다.
 
 ## 주요 기능
 
@@ -103,7 +103,7 @@
 ## 팀 정보
 
 - **프로젝트**: 모빌리티 프로젝트 4
-- **팀**: 2조
+- **팀**: 2조 (강현우, 구교웅, 김소영, 박세리, Agaliu Enrik, 황진영)
 
 ## 라이선스
 
